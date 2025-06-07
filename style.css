@@ -81,3 +81,23 @@ p {
     line-height: 34px;
     color: #000000; 
 }
+
+
+
+@media screen and (max-width: 568px){
+
+    .link-header {
+        display: none;
+    }
+
+
+  .logo-image{
+      
+       margin-left: 75px;
+    }
+
+
+
+
+
+}
